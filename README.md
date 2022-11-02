@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 💬About me
-# I am Segun Lawal, a software engineer, specializing in front-end web development.
+### I am Segun Lawal, a software engineer, specializing in front-end web development.
 - 🌱 I’m currently learning React Redux.
 - 👯 I’m looking to collaborate on any interesting projects.
-- 📫 How to reach me: [github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 📫 How to reach me: [github](https://twitter.com/Segun__Lawal)
 
 
 <!--
