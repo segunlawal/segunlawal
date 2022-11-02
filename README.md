@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React Redux.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me: [twitter](https://twitter.com/Segun__Lawal)
+- ![<Twitter>](https://img.shields.io/badge/<Twitter>-<white>?style=for-the-badge&logo=<Twitter>&logoColor=<blue>)
 
 
 <!--
