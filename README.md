@@ -4,7 +4,7 @@
 ### I am Segun Lawal, a software engineer, specializing in front-end web development.
 - 🌱 I’m currently learning React Redux.
 - 👯 I’m looking to collaborate on any interesting projects.
-- 📫 How to reach me: [github](https://twitter.com/Segun__Lawal)
+- 📫 How to reach me: [twitter](https://twitter.com/Segun__Lawal)
 
 
 <!--
