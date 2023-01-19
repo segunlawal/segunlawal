@@ -2,9 +2,6 @@
 
 ## 💬About me
 ### I am Segun Lawal, a software engineer, specializing in front-end web development.
-- ⚡ I have worked with HTML, CSS and its popular frameworks- incl. Tailwind and Bootstrap.
-- ⚡ I have worked with JavaScript ES6, React and React Hooks.
-- 🌱 I’m currently learning React Redux.
 - 👯 I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me: Send a [twitter](https://twitter.com/Segun__Lawal) DM
 <!-- - ![<Twitter>](https://img.shields.io/badge/<Twitter>-<white>?style=for-the-badge&logo=<Twitter>&logoColor=<blue>) -->
